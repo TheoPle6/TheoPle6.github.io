@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Théo Marquis - Post-doc in Economics"
 title_separator          : "-"
 name                     : &name "Théo Marquis"
 description              : &description "personal description"
