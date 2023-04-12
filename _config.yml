@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Théo Marquis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Post-doctoral researcher at Sciences Po"
+  location         : "Paris"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.fr/citations?user=ff1iRE8AAAAJ&hl=fr&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
